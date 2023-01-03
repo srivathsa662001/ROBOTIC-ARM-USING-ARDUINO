@@ -55,4 +55,9 @@ START BUTTON:=E
 15)	On Computer: Click on Tools and select Serial Monitor or press Ctrl+Shift+M. This opens Serial Monitor. We can check the interface between HC-05 and host device.
  
 16)	 Press the control buttons on smartphone and check the Command window for output. This verifies the communication between smartphone and HC-05 device.
+17)	 
+![Screenshot 2 ](https://user-images.githubusercontent.com/115789460/210377827-50da467c-f757-4c12-b2db-c0485ae62c13.png)
+![screenshot](https://user-images.githubusercontent.com/115789460/210377864-c2382bbb-6f25-4510-a04e-55b4831f1c70.png)
+
+
 
