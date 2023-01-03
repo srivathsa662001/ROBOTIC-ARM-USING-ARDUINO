@@ -59,10 +59,10 @@ START BUTTON:=E
 ![Screenshot 2 ](https://user-images.githubusercontent.com/115789460/210377827-50da467c-f757-4c12-b2db-c0485ae62c13.png)
 
 
+![screenshot](https://user-images.githubusercontent.com/115789460/210381830-110dea70-a982-447e-aed0-845a9625470f.png)
 
 
 
-![screenshot](https://user-images.githubusercontent.com/115789460/210377864-c2382bbb-6f25-4510-a04e-55b4831f1c70.png)
 
 
 [miniproject report.docx](https://github.com/srivathsa662001/ROBOTIC-ARM-USING-ARDUINO/files/10337370/miniproject.report.docx)
