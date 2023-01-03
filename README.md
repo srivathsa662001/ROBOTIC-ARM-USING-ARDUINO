@@ -67,8 +67,6 @@ START BUTTON:=E
 
 [miniproject report.docx](https://github.com/srivathsa662001/ROBOTIC-ARM-USING-ARDUINO/files/10337370/miniproject.report.docx)
 
-[final report draft.pdf](https://github.com/srivathsa662001/ROBOTIC-ARM-USING-ARDUINO/files/10337380/final.report.draft.pdf)
-
 
 
 
